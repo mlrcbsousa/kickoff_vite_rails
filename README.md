@@ -2,12 +2,6 @@
 
 A rapid Rails 6.1+ application template. This particular template utilizes [WindiCSS](https://windicss.org/), a utility-first CSS framework for rapid UI development and [Vite](https://vitejs.dev/guide/), a build tool that aims to provide a faster and leaner development experience for modern web projects.
 
-Inspired heavily by [Jumpstart](https://github.com/excid3/jumpstart) from [Chris Oliver](https://twitter.com/excid3/) and my previous [Kickoff Tailwind](https://github.com/justalever/kickoff_tailwind) Rails application that utilized Webpack/Tailwind CSS.
-
-Be sure to also check out [Jumpstart Pro](https://jumpstartrails.com) to save loads of time creating your next Rails application. Chris, Jason, and I teamed up on it.
-
-New to Rails? Check out my course called **[Hello Rails](https://hellorails.io)** or my **[YouTube channel](https://youtube.com/c/webcrunch)** for a bunch of free tutorials.
-
 ### Included gems
 
 - [devise](https://github.com/plataformatec/devise)
